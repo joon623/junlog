@@ -1,7 +1,7 @@
 ---
-title: Hello World (example)
-date: 2019-04-15
-image: ./some-image.jpg
+title: 개발자로 1년을 지내보니..
+date: 2022-02-10
+image: ../assets/111.webp
 ---
 
-Posts should be written from here
+안녕하세요. 반갑습니다.
